@@ -1,4 +1,4 @@
-# AI-Virtual-Paint project
+# AI-Virtual-Paint project ✌️
 
 Requirements: python3 , numpy , opencv installed on your system.
 
